@@ -1,0 +1,14 @@
+{
+  "name": "bzed-elk",
+  "version": "0.1.0",
+  "author": "bzed",
+  "summary": "Installs the Elasticsearch-Logstash-Kibana stack",
+  "license": "Apache 2.0",
+  "source": "https://github.com/bzed/bzed-elk.git",
+  "project_page": "https://github.com/bzed/bzed-elk",
+  "issues_url": "https://github.com/bzed/bzed-elk/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
